@@ -1,3 +1,4 @@
+-- Active: 1790157236845@@127.0.0.1@3306@mysql
 USE farmconnect;
 
 SET FOREIGN_KEY_CHECKS = 0;
@@ -73,3 +74,4 @@ INSERT INTO favorites (buyer_id, product_id) VALUES
 (5, 2),
 (6, 7),
 (7, 4);
+

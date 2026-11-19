@@ -1,3 +1,4 @@
+-- Active: 1790157236845@@127.0.0.1@3306@farmconnect
 CREATE DATABASE IF NOT EXISTS farmconnect;
 USE farmconnect;
 
