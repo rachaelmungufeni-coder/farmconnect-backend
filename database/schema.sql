@@ -1,6 +1,6 @@
 -- Active: 1790157236845@@127.0.0.1@3306@farmconnect
-CREATE DATABASE IF NOT EXISTS farmconnect;
-USE farmconnect;
+CREATE DATABASE IF NOT EXISTS farmconnect_learning;
+USE farmconnect_learning;
 
 SET FOREIGN_KEY_CHECKS = 0;
 DROP TABLE IF EXISTS audit_logs;

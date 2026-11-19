@@ -1,5 +1,5 @@
 -- Active: 1790157236845@@127.0.0.1@3306@mysql
-USE farmconnect;
+USE farmconnect_learning;
 
 SET FOREIGN_KEY_CHECKS = 0;
 TRUNCATE TABLE audit_logs;
